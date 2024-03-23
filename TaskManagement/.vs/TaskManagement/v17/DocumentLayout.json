@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\toets 1\\desktop\\taskmanagement\\taskmanagement\\mutex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\mutex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\App.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\App.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:39:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\LogInPage.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\LogInPage.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\LogInPage.xaml",
+              "RelativeToolTip": "TaskManagement\\LogInPage.xaml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T13:38:41.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\TaskManager.cs",
+              "RelativeToolTip": "TaskManagement\\TaskManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:29:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mutex.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\Mutex.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Mutex.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\Mutex.cs",
+              "RelativeToolTip": "TaskManagement\\Mutex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:27:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagement\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:37:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\RegistrationPage.xaml",
+              "RelativeToolTip": "TaskManagement\\RegistrationPage.xaml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T10:37:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\LogInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\LogInPage.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\LogInPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:40:06.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Toets 1\\Desktop\\TaskManagement\\TaskManagement\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:41:51.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
