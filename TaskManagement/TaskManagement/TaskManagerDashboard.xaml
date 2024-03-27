@@ -1,0 +1,74 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManagement.TaskManagerDashboard">
+    <Grid HorizontalOptions="End" VerticalOptions="FillAndExpand" BackgroundColor="lightblue" Padding="5" WidthRequest="800">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Picker x:Name="boardPicker" Grid.Row="0" SelectedIndex="0" WidthRequest="130" HorizontalOptions="Start">
+			<Picker.Items>
+				<x:String>Main board</x:String>
+			</Picker.Items>
+		</Picker>
+
+        <ScrollView Grid.Row="1">
+            <Grid ColumnSpacing="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- To Do Column -->
+                <StackLayout Grid.Column="0">
+                    <Frame BackgroundColor="FloralWhite" CornerRadius="5" Padding="10">
+                        <StackLayout>
+                            <Label Text="To Do" HorizontalOptions="Center" FontAttributes="Bold" TextColor="Black" Margin="0,0,0,20"/>
+                            <Frame BackgroundColor="DarkCyan" Padding="10">
+                                <StackLayout>
+                                    <Label Text="Name: [placeholder]"/>
+                                    <Label Text="Assigned: [placeholder]" />
+                                    <Label Text="Deadline: [placeholder]" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+
+                <!-- In Progress Column -->
+                <StackLayout Grid.Column="1">
+                    <Frame BackgroundColor="FloralWhite" CornerRadius="5" Padding="10">
+                        <StackLayout>
+                            <Label Text="In Progress" HorizontalOptions="Center" FontAttributes="Bold" TextColor="Black" Margin="0,0,0,20"/>
+                            <Frame BackgroundColor="DarkCyan" Padding="10">
+                                <StackLayout>
+                                    <Label Text="Name: [placeholder]" />
+                                    <Label Text="Assigned: [placeholder]" />
+                                    <Label Text="Deadline: [placeholder]" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+
+                <!-- Done Column -->
+                <StackLayout Grid.Column="2">
+                    <Frame BackgroundColor="FloralWhite" CornerRadius="5" Padding="10">
+                        <StackLayout>
+                            <Label Text="Done" HorizontalOptions="Center" FontAttributes="Bold" TextColor="Black" Margin="0,0,0,20"/>
+                            <Frame BackgroundColor="DarkCyan" Padding="10">
+                                <StackLayout>
+                                    <Label Text="Name: [placeholder]" />
+                                    <Label Text="Assigned: [placeholder]" />
+                                    <Label Text="Deadline: [placeholder]" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </Grid>
+</ContentPage>
