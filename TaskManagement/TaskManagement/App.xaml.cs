@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new RegistrationPage());
+            MainPage = new NavigationPage(new TeamBoard());
         }
     }
 }

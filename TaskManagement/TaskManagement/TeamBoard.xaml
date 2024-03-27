@@ -1,0 +1,42 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManagement.TeamBoard">
+
+	<!-- Overall Page Grid -->
+	<Grid RowDefinitions="Auto,*">
+
+		<!-- Top Bar Row -->
+		<HorizontalStackLayout Grid.Row="0" BackgroundColor="#d1cfe2" Padding="10" Spacing="10">
+			<!-- Profile Picture Code stuff -->
+			<Label Text="Your Name" HorizontalOptions="Start" WidthRequest="100" TextColor="Black"/>
+			<Button Text="All" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Button Text="Teams" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Button Text="Boards" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Button Text="Settings" BackgroundColor="White" HorizontalOptions="End" WidthRequest="100" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+		</HorizontalStackLayout>
+
+		<!-- Sidebar and Main content area Row -->
+		<Grid Grid.Row="1" ColumnDefinitions="Auto,*">
+			<!-- Sidebar -->
+			<VerticalStackLayout Grid.Column="0" Padding="10" BackgroundColor="#d1cfe2">
+				<Label Text="My Teams" Margin="0,0,0,10" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+				<Button Text="Team 1" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+				<Button Text="Team 2" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+				<Button Text="Team 3" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+				<Button Text="Team 4" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+
+				<BoxView HeightRequest="2" Color="Black" Margin="0,10,0,10"/>
+
+				<Label Text="Task Management" Margin="0,0,0,10" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+				<Button Text="Create Task" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+				<Button Text="Delete Task" BackgroundColor="White" TextColor="Black" Margin="5" Pressed="OnSideButtonPressed" Released="OnSideButtonReleased"/>
+			</VerticalStackLayout>
+
+			<!-- Main content area -->
+			<ContentView Grid.Column="1" BackgroundColor="White"/>
+		</Grid>
+	</Grid>
+
+</ContentPage>
