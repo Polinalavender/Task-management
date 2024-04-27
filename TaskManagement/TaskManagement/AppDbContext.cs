@@ -12,7 +12,7 @@ namespace TaskManagement
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AppDbContext;Trusted_Connection=True;",
+            optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Toets 1\\Documents\\TaskManager.mdf\";Integrated Security=True;Connect Timeout=30",
                 options => options.EnableRetryOnFailure(maxRetryCount: 10)); // Increase the maxRetryCount
         }
 
