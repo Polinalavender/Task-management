@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-27T14:09:17.570</Modified>
+      <Modified>2024-04-29T13:13:04.664</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-27T14:09:17.484</Modified>
+      <Modified>2024-04-29T13:13:04.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TaskManagement.runtimeconfig.json">
       <PackagePath>TaskManagement.runtimeconfig.json</PackagePath>
-      <Modified>2024-03-25T12:03:59.110</Modified>
+      <Modified>2024-04-29T13:13:04.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TaskManagement.dll">
       <PackagePath>TaskManagement.dll</PackagePath>
-      <Modified>2024-03-27T14:09:17.151</Modified>
+      <Modified>2024-04-29T13:13:03.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TaskManagement.exe</PackagePath>
-      <Modified>2024-03-27T14:09:17.160</Modified>
+      <Modified>2024-04-29T13:13:03.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\Desktop\Nathan%27s Stuff\Uni\C#\Final-assignment-\TaskManagement\TaskManagement\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TaskManagement.deps.json">
       <PackagePath>TaskManagement.deps.json</PackagePath>
-      <Modified>2024-03-27T06:35:11.704</Modified>
+      <Modified>2024-04-29T13:13:04.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11704\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

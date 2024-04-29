@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\teamboard.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\teamboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\teamboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\11704\\desktop\\nathan\u0027s stuff\\uni\\c#\\final-assignment-\\taskmanagement\\taskmanagement\\teamboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\teamboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +34,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\App.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\App.xaml.cs",
               "ToolTip": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\App.xaml.cs",
               "RelativeToolTip": "TaskManagement\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T06:39:45.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T06:39:45.867Z"
             },
             {
               "$type": "Document",
@@ -53,40 +52,40 @@
               "RelativeDocumentMoniker": "TaskManagement\\TeamBoard.xaml",
               "ToolTip": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\TeamBoard.xaml",
               "RelativeToolTip": "TaskManagement\\TeamBoard.xaml",
-              "ViewState": "AQIAABIAAAAAAAAAAADgvycAAAAIAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAADgvwoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-27T07:16:52.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TeamBoard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\TeamBoard.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\TeamBoard.xaml.cs",
               "ToolTip": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\TeamBoard.xaml.cs",
               "RelativeToolTip": "TaskManagement\\TeamBoard.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T12:01:53.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegistrationPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\RegistrationPage.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\RegistrationPage.xaml.cs",
               "ToolTip": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\RegistrationPage.xaml.cs",
               "RelativeToolTip": "TaskManagement\\RegistrationPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T10:41:51.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegistrationPage.xaml",
               "DocumentMoniker": "C:\\Users\\11704\\Desktop\\Nathan\u0027s Stuff\\Uni\\C#\\Final-assignment-\\TaskManagement\\TaskManagement\\RegistrationPage.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\RegistrationPage.xaml",

@@ -8,10 +8,15 @@
 		<!-- Top Bar Row -->
 		<HorizontalStackLayout Grid.Row="0" BackgroundColor="#d1cfe2" Padding="10" Spacing="10">
 			<!-- Profile Picture Code stuff -->
+			<Label WidthRequest="15" />
 			<Label Text="Your Name" HorizontalOptions="Start" WidthRequest="100" TextColor="Black"/>
+			<Label WidthRequest="50"/>
 			<Button Text="All" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Label WidthRequest="125"/>
 			<Button Text="Teams" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Label WidthRequest="125"/>
 			<Button Text="Boards" BackgroundColor="White" HorizontalOptions="FillAndExpand" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
+			<Label WidthRequest="125"/>
 			<Button Text="Settings" BackgroundColor="White" HorizontalOptions="End" WidthRequest="100" Pressed="OnNavButtonPressed" Released="OnNavButtonReleased"/>
 		</HorizontalStackLayout>
 
