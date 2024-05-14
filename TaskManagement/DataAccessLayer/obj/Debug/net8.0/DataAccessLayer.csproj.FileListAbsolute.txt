@@ -1,0 +1,29 @@
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\saeedbil\Downloads\TaskManager\TaskManager\TaskManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Toets 1\Desktop\TaskManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
