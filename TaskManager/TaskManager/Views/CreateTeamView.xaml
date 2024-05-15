@@ -44,7 +44,7 @@ HorizontalOptions="EndAndExpand" >
                                     </DataTemplate>
                                 </CollectionView.ItemTemplate>
 
-                                <!-- Apply spacing and margin to members -->
+                                
                                 <CollectionView.ItemsLayout>
                                     <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="5" />
                                 </CollectionView.ItemsLayout>

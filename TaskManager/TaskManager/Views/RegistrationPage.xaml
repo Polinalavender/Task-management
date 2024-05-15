@@ -21,7 +21,6 @@
             <Setter Property="BackgroundColor" Value="{StaticResource EntryBackgroundColor}" />
             <Setter Property="TextColor" Value="{StaticResource EntryTextColor}" />
             <Setter Property="Margin" Value="0,5" />
-            <!-- Added space between fields -->
         </Style>
         <Style TargetType="Button">
             <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
