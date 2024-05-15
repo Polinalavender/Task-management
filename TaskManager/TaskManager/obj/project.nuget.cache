@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H3wDRYONuH0SM4Wxk8U7PtjAN5M2Hfh2Xo7VoT07PAgDRslGw0Bhh6eNXcUCSbd5eUswyMp+YvGT6xPRRNAknA==",
+  "dgSpecHash": "e2A+2Uwjf0GmXb9Sun7X7RimJSM2uAsaH8XUd4B6R4t25tCx0tW7T1aXm7qtWOVdAvbmJSu1ufQjrHAldUQBuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\TaskManager.csproj",
   "expectedPackageFiles": [
@@ -152,8 +152,7 @@
     "C:\\Users\\Toets 1\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk7\\1.9.0.1\\xamarin.kotlin.stdlib.jdk7.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Toets 1\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Toets 1\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Toets 1\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Toets 1\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+    "C:\\Users\\Toets 1\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512"
   ],
   "logs": []
 }

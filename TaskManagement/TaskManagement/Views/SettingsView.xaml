@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManagement.Views.SettingsView">
+    <VerticalStackLayout>
+        <Label Text="App Theme" FontSize="Large" Margin="10,20,0,0" />
+        <Picker x:Name="ThemePicker" Title="Select Theme">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Light</x:String>
+                    <x:String>Dark</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <!-- Notification Settings -->
+        <Label Text="Notification Settings" FontSize="Large" Margin="10,20,0,0" />
+        <Switch x:Name="NotificationSwitch" Margin="10,10,0,0" IsToggled="True" />
+        <Label Text="Enable Notifications" Margin="60,0,0,0" />
+
+        <!-- Account Settings -->
+        <Label Text="Account Settings" FontSize="Large" Margin="10,20,0,0" />
+        <Button Text="Sign Out" Margin="10,10,0,0" />
+
+        <!-- About -->
+        <Label Text="About" FontSize="Large" Margin="10,20,0,0" />
+        <Button Text="Version" Margin="10,10,0,0" />
+        <Button Text="Privacy Policy" Margin="10,10,0,0" />
+    </VerticalStackLayout>
+</ContentView>
