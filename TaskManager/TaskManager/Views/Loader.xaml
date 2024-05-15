@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:mopups="clr-namespace:Mopups.Pages;assembly=Mopups"
              xmlns:mopupsanim="clr-namespace:Mopups.Animations;assembly=Mopups"
-             x:Class="TaskManagement.Views.LoaderPopup"
+             x:Class="TaskManager.Views.LoaderPopup"
              Title="MyPopupPage" BackgroundColor="#80000000" CloseWhenBackgroundIsClicked="False">
     <mopups:PopupPage.Animation>
         <mopupsanim:ScaleAnimation

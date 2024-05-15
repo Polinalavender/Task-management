@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\loadingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loadingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\loader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\createteamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\createteamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\createtaskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\createtaskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\createtaskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\createtaskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\toets 1\\documents\\final-assignment-\\taskmanager\\taskmanager\\views\\loadingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loadingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\loader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\createteamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\createteamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\teamboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\teamboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\teamboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\taskmanager\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|c:\\users\\ameli\\onedrive\\documents\\github\\final-assignment-\\taskmanager\\taskmanager\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DB46B8A-BA7B-4446-A7F4-82AEFB0F3474}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -81,110 +101,90 @@
               "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CreateTaskView.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTaskView.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTaskView.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\CreateTaskView.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTaskView.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTaskView.xaml",
               "RelativeToolTip": "TaskManager\\Views\\CreateTaskView.xaml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:14:37.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CreateTeamView.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTeamView.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTeamView.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\CreateTeamView.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTeamView.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\CreateTeamView.xaml",
               "RelativeToolTip": "TaskManager\\Views\\CreateTeamView.xaml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwEYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:09:21.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Loader.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\Loader.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\Loader.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\Loader.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\Loader.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\Loader.xaml",
               "RelativeToolTip": "TaskManager\\Views\\Loader.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:10:56.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoadingPopup.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LoadingPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LoadingPopup.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\LoadingPopup.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LoadingPopup.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LoadingPopup.xaml",
               "RelativeToolTip": "TaskManager\\Views\\LoadingPopup.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:11:37.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RegistrationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\RegistrationPage.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\RegistrationPage.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\RegistrationPage.xaml",
               "RelativeToolTip": "TaskManager\\Views\\RegistrationPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:12:43.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "LogInPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LogInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LogInPage.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\LogInPage.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LogInPage.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\LogInPage.xaml",
               "RelativeToolTip": "TaskManager\\Views\\LogInPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T14:12:08.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SettingsView.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\SettingsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\SettingsView.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\SettingsView.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\SettingsView.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\SettingsView.xaml",
               "RelativeToolTip": "TaskManager\\Views\\SettingsView.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -192,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TeamBoard.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\TeamBoard.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\TeamBoard.xaml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\TeamBoard.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\Views\\TeamBoard.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\Views\\TeamBoard.xaml",
               "RelativeToolTip": "TaskManager\\Views\\TeamBoard.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -204,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\AppShell.xaml",
               "RelativeDocumentMoniker": "TaskManager\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\ameli\\OneDrive\\Documents\\GitHub\\Final-assignment-\\TaskManager\\TaskManager\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\AppShell.xaml",
               "RelativeToolTip": "TaskManager\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
