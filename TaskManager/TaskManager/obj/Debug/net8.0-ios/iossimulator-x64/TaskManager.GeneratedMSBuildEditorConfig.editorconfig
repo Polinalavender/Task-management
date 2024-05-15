@@ -1,8 +1,4 @@
 is_global = true
-build_property.EnableAotAnalyzer = 
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = false
-build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0-ios
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -12,95 +8,95 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManager
-build_property.ProjectDir = C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\
+build_property.ProjectDir = C:\Users\ameli\OneDrive\Documents\GitHub\Final-assignment-\TaskManager\TaskManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/App.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/AppShell.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/MainPage.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Popups/AddNewMemberPopup.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Popups/AddNewMemberPopup.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Popups.AddNewMemberPopup.xaml
 build_metadata.AdditionalFiles.TargetPath = Popups\AddNewMemberPopup.xaml
 build_metadata.AdditionalFiles.RelativePath = Popups\AddNewMemberPopup.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Resources/Styles/Colors.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Resources/Styles/Styles.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/CreateTaskView.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/CreateTaskView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.CreateTaskView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\CreateTaskView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\CreateTaskView.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/CreateTeamView.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/CreateTeamView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.CreateTeamView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\CreateTeamView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\CreateTeamView.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/Loader.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/Loader.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.Loader.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Loader.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Loader.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/LoadingPopup.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/LoadingPopup.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.LoadingPopup.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LoadingPopup.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\LoadingPopup.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/LogInPage.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/LogInPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.LogInPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LogInPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\LogInPage.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/RegistrationPage.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/RegistrationPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.RegistrationPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\RegistrationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\RegistrationPage.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/SettingsView.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/SettingsView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.SettingsView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\SettingsView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\SettingsView.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/TaskContentView.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/TaskContentView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.TaskContentView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\TaskContentView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\TaskContentView.xaml
 
-[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/TeamBoard.xaml]
+[C:/Users/ameli/OneDrive/Documents/GitHub/Final-assignment-/TaskManager/TaskManager/Views/TeamBoard.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.TeamBoard.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\TeamBoard.xaml
