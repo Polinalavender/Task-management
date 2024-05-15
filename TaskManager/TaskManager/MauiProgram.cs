@@ -1,13 +1,4 @@
-﻿using CommunityToolkit.Maui;
-using CommunityToolkit.Maui.Core;
-using DataAccessLayer.DbContext;
-using DataAccessLayer.Repositories;
-using Microsoft.Extensions.Logging;
-using Mopups.Hosting;
-using Mopups.Interfaces;
-using Mopups.PreBaked.PopupPages.Login;
-using Mopups.Services;
-using TaskManagement.Views;
+﻿using Microsoft.Extensions.Logging;
 using TaskManager;
 
 namespace TaskManagement
