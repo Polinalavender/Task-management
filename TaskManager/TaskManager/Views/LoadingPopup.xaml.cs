@@ -1,6 +1,9 @@
+using Mopups.Pages;
+using System.Threading.Tasks;
+
 namespace TaskManager.Views;
 
-public partial class LoadingPopup : ContentPage
+public partial class LoadingPage : ContentPage
 {
     public string LoadingText { get; set; }
     private string title;

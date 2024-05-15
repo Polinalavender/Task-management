@@ -1,9 +1,17 @@
 namespace TaskManager.Views;
 
-public partial class Loader : ContentPage
+public partial class LoaderPopup : Mopups.Pages.PopupPage
 {
-	public Loader()
-	{
-		InitializeComponent();
-	}
+    public LoaderPopup(string title)
+    {
+        InitializeComponent();
+        if (string.IsNullOrWhiteSpace(title))
+        {
+            this.loadingLabel.Text = "Please wait...";
+        }
+        else
+        {
+            this.loadingLabel.Text = title;
+        }
+    }
 }

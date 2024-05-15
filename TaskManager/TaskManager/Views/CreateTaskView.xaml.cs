@@ -1,9 +1,11 @@
+using TaskManager.ViewModels;
+
 namespace TaskManager.Views;
 
-public partial class CreateTaskView : ContentPage
+public partial class CreateTaskView : ContentView
 {
-	public CreateTaskView()
-	{
-		InitializeComponent();
-	}
+    public CreateTaskView()
+    {
+        InitializeComponent();
+    }
 }

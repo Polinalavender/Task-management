@@ -1,10 +1,12 @@
-namespace TaskManager.Views;
+using TaskManager.ViewModels;
+
+namespace TaskManagement.Views;
 
 public partial class TaskContentView : ContentView
 {
-	public TaskContentView()
-	{
-		InitializeComponent();
-		BindingContext = new TaskContentViewModel(teamId);
-	}
+    public TaskContentView(int? teamId)
+    {
+        InitializeComponent();
+        BindingContext = new TaskContentViewModel(teamId);
+    }
 }

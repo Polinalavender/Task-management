@@ -1,9 +1,12 @@
-namespace TaskManager.Views;
+using Microsoft.Maui.Controls;
 
-public partial class TeamBoard : ContentPage
+namespace TaskManager.Views
 {
-	public TeamBoard()
-	{
-		InitializeComponent();
-	}
+    public partial class TeamBoard : ContentPage
+    {
+        public TeamBoard()
+        {
+            InitializeComponent();
+        }
+    }
 }

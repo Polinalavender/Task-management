@@ -1,9 +1,11 @@
+using System.Globalization;
+
 namespace TaskManager.Views;
 
-public partial class NewPage1 : ContentPage
+public partial class CreateTeamView : ContentView
 {
-	public NewPage1()
-	{
-		InitializeComponent();
-	}
+    public CreateTeamView()
+    {
+        InitializeComponent();
+    }
 }
