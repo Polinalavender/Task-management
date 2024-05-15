@@ -10,15 +10,15 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManagement.Models;
-using TaskManagement.Popups;
+using TaskManager.Models;
+using TaskManager.Popups;
 using CommunityToolkit.Maui.Alerts;
 using CommunityToolkit.Maui.Core;
 using System.Threading;
 using Mopups.Interfaces;
-using TaskManagement.Views;
+using TaskManager.Views;
 using CommunityToolkit.Mvvm.Messaging;
-using TaskManagement.Messenger;
+using TaskManager.Messenger;
 
 namespace TaskManager.ViewModels
 {

@@ -8,9 +8,9 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using Mopups.Services;
 using Mopups.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
-using TaskManagement.Views;
+using TaskManager.Views;
 using DataAccessLayer.Utils;
-using TaskManagement.Models;
+using TaskManager.Models;
 
 namespace TaskManagement.ViewModels
 {

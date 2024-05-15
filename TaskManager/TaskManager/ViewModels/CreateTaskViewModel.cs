@@ -10,9 +10,9 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManagement.Messenger;
-using TaskManagement.Models;
-using TaskManagement.Views;
+using TaskManager.Messenger;
+using TaskManager.Models;
+using TaskManager.Views;
 
 namespace TaskManager.ViewModels
 {

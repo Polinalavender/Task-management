@@ -8,7 +8,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using Mopups.Services;
 using Mopups.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
-using TaskManagement.Views;
+using TaskManager.Views;
 using Mopups.PreBaked.Services;
 using System.Text.Json.Serialization;
 using Newtonsoft.Json;
