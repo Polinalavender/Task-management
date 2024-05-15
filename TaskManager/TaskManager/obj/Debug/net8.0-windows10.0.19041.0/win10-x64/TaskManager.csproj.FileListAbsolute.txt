@@ -1,0 +1,12 @@
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TaskManager.csproj.AssemblyReference.cache
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Toets 1\Documents\Final-assignment-\TaskManager\TaskManager\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
