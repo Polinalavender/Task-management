@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\converters\\multibindingconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\converters\\multibindingconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\popups\\addnewmemberpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\popups\\addnewmemberpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\messenger\\senditemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\messenger\\senditemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\popups\\addnewmemberpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\popups\\addnewmemberpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\teamboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\teamboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\taskcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\taskcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\views\\createteamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\createteamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,14 +103,6 @@
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\messenger\\senditemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\messenger\\senditemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\converters\\multibindingconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\converters\\multibindingconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -135,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagement\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\taskcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\taskcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\createteamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\createteamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -153,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D002E19-2D0E-4957-9D66-7938E01CCD09}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\dataaccesslayer\\dbcontext\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D002E19-2D0E-4957-9D66-7938E01CCD09}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbcontext\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\viewmodels\\teamboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewmodels\\teamboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4EABCD2-32BC-4049-B57E-93D5C1D22B1F}|TaskManagement\\TaskManagement.csproj|c:\\users\\ameli\\downloads\\taskmanagement\\taskmanagement\\taskmanagement\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -174,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -209,73 +221,93 @@
               "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SettingsView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\SettingsView.xaml.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\SettingsView.xaml.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\SettingsView.xaml.cs",
-              "RelativeToolTip": "TaskManagement\\Views\\SettingsView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:28.316Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegistrationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\RegistrationPage.xaml.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\RegistrationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\RegistrationPage.xaml.cs",
-              "RelativeToolTip": "TaskManagement\\Views\\RegistrationPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "AddNewMemberPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Popups\\AddNewMemberPopup.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Popups\\AddNewMemberPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Popups\\AddNewMemberPopup.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Popups\\AddNewMemberPopup.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:26.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogInPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LogInPage.xaml.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\LogInPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LogInPage.xaml.cs",
-              "RelativeToolTip": "TaskManagement\\Views\\LogInPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:22.259Z",
+              "WhenOpened": "2024-05-15T17:38:15.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoadingPopup.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LoadingPopup.xaml.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\LoadingPopup.xaml.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LoadingPopup.xaml.cs",
-              "RelativeToolTip": "TaskManagement\\Views\\LoadingPopup.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCUAAAABAAAA",
+              "Title": "SendItemMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Messenger\\SendItemMessage.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Messenger\\SendItemMessage.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Messenger\\SendItemMessage.cs",
+              "RelativeToolTip": "TaskManagement\\Messenger\\SendItemMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:11.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Loader.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\Loader.xaml.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\Loader.xaml.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\Loader.xaml.cs",
-              "RelativeToolTip": "TaskManagement\\Views\\Loader.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:08.682Z",
+              "WhenOpened": "2024-05-15T12:34:40.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MultibindingConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Converters\\MultibindingConverter.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Converters\\MultibindingConverter.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Converters\\MultibindingConverter.cs",
+              "RelativeToolTip": "TaskManagement\\Converters\\MultibindingConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:36:04.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewMemberPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Popups\\AddNewMemberPopup.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\Popups\\AddNewMemberPopup.xaml",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Popups\\AddNewMemberPopup.xaml",
+              "RelativeToolTip": "TaskManagement\\Popups\\AddNewMemberPopup.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T17:36:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\ShellViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\ShellViewModel.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\ShellViewModel.cs",
+              "RelativeToolTip": "TaskManagement\\ViewModels\\ShellViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:34:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateTeamView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\CreateTeamView.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\CreateTeamView.xaml.cs",
@@ -288,7 +320,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "TaskContentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TaskContentViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\TaskContentViewModel.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TaskContentViewModel.cs",
+              "RelativeToolTip": "TaskManagement\\ViewModels\\TaskContentViewModel.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:40:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamBoardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
+              "RelativeToolTip": "TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAzwJ0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:30:34.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Loader.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\Loader.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\Loader.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\Loader.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Views\\Loader.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:08.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadingPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LoadingPopup.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\LoadingPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LoadingPopup.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Views\\LoadingPopup.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\LogInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LogInPage.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Views\\LogInPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:22.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Views\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:26.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\SettingsView.xaml.cs",
+              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\SettingsView.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Views\\SettingsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "TeamBoard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\TeamBoard.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\TeamBoard.xaml.cs",
@@ -296,12 +414,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\TeamBoard.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:35.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:36:35.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "TeamBoard.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\TeamBoard.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\TeamBoard.xaml",
@@ -309,12 +426,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\TeamBoard.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-09T17:29:06.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:29:06.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "TaskContentView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\TaskContentView.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\TaskContentView.xaml.cs",
@@ -322,12 +438,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\TaskContentView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:39:45.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:39:45.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "TaskContentView.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\TaskContentView.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\TaskContentView.xaml",
@@ -335,12 +450,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\TaskContentView.xaml",
               "ViewState": "AQIAAGUAAAAAAAAAAAAgwI0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-09T17:39:54.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:39:54.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "SettingsView.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\SettingsView.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\SettingsView.xaml",
@@ -353,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "LoadingPopup.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LoadingPopup.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\LoadingPopup.xaml",
@@ -361,12 +475,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\LoadingPopup.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T14:19:02.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T14:19:02.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Loader.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\Loader.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Loader.xaml",
@@ -374,12 +487,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\Loader.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T14:18:38.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T14:18:38.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "CreateTaskView.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\CreateTaskView.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\CreateTaskView.xaml",
@@ -387,12 +499,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\CreateTaskView.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T14:07:16.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T14:07:16.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "CreateTaskView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\CreateTaskView.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\CreateTaskView.xaml.cs",
@@ -400,12 +511,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\CreateTaskView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:36:05.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:36:05.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "CreateTeamView.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\CreateTeamView.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\CreateTeamView.xaml",
@@ -413,12 +523,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\CreateTeamView.xaml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAgwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-09T17:32:23.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:32:23.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Platforms\\Android\\MainApplication.cs",
@@ -426,12 +535,11 @@
               "RelativeToolTip": "TaskManagement\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:34:47.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:34:47.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Platforms\\Android\\MainActivity.cs",
@@ -439,25 +547,11 @@
               "RelativeToolTip": "TaskManagement\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:34:45.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:34:45.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SendItemMessage.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Messenger\\SendItemMessage.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Messenger\\SendItemMessage.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Messenger\\SendItemMessage.cs",
-              "RelativeToolTip": "TaskManagement\\Messenger\\SendItemMessage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:34:40.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TaskManagement\\Properties\\launchSettings.json",
@@ -465,25 +559,23 @@
               "RelativeToolTip": "TaskManagement\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T12:31:31.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:31:31.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TaskManagement",
+              "DocumentIndex": 26,
+              "Title": "TaskManagement.csproj",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
               "RelativeDocumentMoniker": "TaskManagement\\TaskManagement.csproj",
               "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
               "RelativeToolTip": "TaskManagement\\TaskManagement.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T12:31:02.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:31:02.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "PasswordHashUtility.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Utils\\PasswordHashUtility.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Utils\\PasswordHashUtility.cs",
@@ -491,12 +583,11 @@
               "RelativeToolTip": "DataAccessLayer\\Utils\\PasswordHashUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:44.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:44.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "TeamRepository.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Repositories\\TeamRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\TeamRepository.cs",
@@ -504,12 +595,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\TeamRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:24.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:24.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\TaskRepository.cs",
@@ -517,25 +607,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\TaskRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:14.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:14.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MultibindingConverter.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Converters\\MultibindingConverter.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Converters\\MultibindingConverter.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Converters\\MultibindingConverter.cs",
-              "RelativeToolTip": "TaskManagement\\Converters\\MultibindingConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:36:04.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "UserTeam.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Models\\UserTeam.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Models\\UserTeam.cs",
@@ -543,12 +619,11 @@
               "RelativeToolTip": "DataAccessLayer\\Models\\UserTeam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:09.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:09.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Models\\User.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Models\\User.cs",
@@ -556,12 +631,11 @@
               "RelativeToolTip": "DataAccessLayer\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:08.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:08.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Models\\Team.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Team.cs",
@@ -569,12 +643,11 @@
               "RelativeToolTip": "DataAccessLayer\\Models\\Team.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:06.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:06.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Models\\TaskModel.cs",
@@ -582,12 +655,11 @@
               "RelativeToolTip": "DataAccessLayer\\Models\\TaskModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:30:04.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:30:04.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "TaskDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Migrations\\TaskDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\TaskDbContextModelSnapshot.cs",
@@ -595,12 +667,11 @@
               "RelativeToolTip": "DataAccessLayer\\Migrations\\TaskDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:29:52.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:29:52.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "20240502181025_init.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Migrations\\20240502181025_init.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240502181025_init.cs",
@@ -608,12 +679,11 @@
               "RelativeToolTip": "DataAccessLayer\\Migrations\\20240502181025_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:29:43.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:29:43.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "TaskManagerEnum.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\Enums\\TaskManagerEnum.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Enums\\TaskManagerEnum.cs",
@@ -621,28 +691,11 @@
               "RelativeToolTip": "DataAccessLayer\\Enums\\TaskManagerEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:29:28.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-05-15T12:29:28.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TeamBoardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
-              "RelativeToolTip": "TaskManagement\\ViewModels\\TeamBoardViewModel.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAQwEwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:30:34.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "TaskManagement\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
@@ -650,12 +703,11 @@
               "RelativeToolTip": "TaskManagement\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:38:46.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:38:46.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "CreateTeamViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\CreateTeamViewModel.cs",
               "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\CreateTeamViewModel.cs",
@@ -663,12 +715,11 @@
               "RelativeToolTip": "TaskManagement\\ViewModels\\CreateTeamViewModel.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAcwDoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:36:04.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:36:04.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "TaskDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\DataAccessLayer\\DbContext\\TaskDbContext.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\DbContext\\TaskDbContext.cs",
@@ -676,12 +727,11 @@
               "RelativeToolTip": "DataAccessLayer\\DbContext\\TaskDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA9AQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:51:18.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:51:18.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\LoginViewModel.cs",
@@ -689,25 +739,11 @@
               "RelativeToolTip": "TaskManagement\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAiwD8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:27:14.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:27:14.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TaskContentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TaskContentViewModel.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\TaskContentViewModel.cs",
-              "ToolTip": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\TaskContentViewModel.cs",
-              "RelativeToolTip": "TaskManagement\\ViewModels\\TaskContentViewModel.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAiwG4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:40:11.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "RegistrationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\ViewModels\\RegistrationViewModel.cs",
               "RelativeDocumentMoniker": "TaskManagement\\ViewModels\\RegistrationViewModel.cs",
@@ -715,12 +751,11 @@
               "RelativeToolTip": "TaskManagement\\ViewModels\\RegistrationViewModel.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAiwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:36:04.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:36:04.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\AppShell.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\AppShell.xaml",
@@ -732,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "LogInPage.xaml",
               "DocumentMoniker": "C:\\Users\\ameli\\Downloads\\TaskManagement\\TaskManagement\\TaskManagement\\Views\\LogInPage.xaml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\LogInPage.xaml",
@@ -740,8 +775,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\LogInPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAACzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-09T17:27:01.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:27:01.468Z"
             }
           ]
         }
