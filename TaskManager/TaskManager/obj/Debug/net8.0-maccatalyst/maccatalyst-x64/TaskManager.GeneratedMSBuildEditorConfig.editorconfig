@@ -45,3 +45,57 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/CreateTaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.CreateTaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CreateTaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CreateTaskView.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/CreateTeamView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.CreateTeamView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CreateTeamView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CreateTeamView.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/Loader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.Loader.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Loader.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Loader.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/LoadingPopup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.LoadingPopup.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoadingPopup.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoadingPopup.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/LogInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.LogInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LogInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LogInPage.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/RegistrationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.RegistrationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegistrationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegistrationPage.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/SettingsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.SettingsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SettingsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SettingsView.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/TaskContentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.TaskContentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TaskContentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TaskContentView.xaml
+
+[C:/Users/Toets 1/Documents/Final-assignment-/TaskManager/TaskManager/Views/TeamBoard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManager.Views.TeamBoard.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TeamBoard.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TeamBoard.xaml

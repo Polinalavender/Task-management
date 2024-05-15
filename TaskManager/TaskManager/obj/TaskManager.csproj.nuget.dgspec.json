@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toets 1\\Desktop\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toets 1\\Desktop\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toets 1\\Desktop\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\Toets 1\\Desktop\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\Toets 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toets 1\\Desktop\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\Toets 1\\Documents\\Final-assignment-\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
