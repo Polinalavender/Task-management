@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:vm="clr-namespace:TaskManagement.ViewModels"
+             x:Class="TaskManagement.Views.TaskContentView">
+    <Grid RowDefinitions="Auto,*">
+        <Grid Grid.Row="0">
+            <Label Text="{Binding PageTitle}" HorizontalOptions="Start" Margin="20,0,0,0" FontSize="Header"/>
+        </Grid>
+        <Grid Grid.Row="1" ColumnDefinitions="*,*,*" ColumnSpacing="20">
+            <Frame CornerRadius="25" Grid.Column="0" Padding="10" Background="{StaticResource White}" Margin="0,0,0,0">
+                <ScrollView>
+                    <ScrollView.GestureRecognizers>
+                        <DropGestureRecognizer AllowDrop="True" DropCommand="{Binding HandleDropCommand}" DropCommandParameter="0" />
+                    </ScrollView.GestureRecognizers>
+                    <VerticalStackLayout HorizontalOptions="Center">
+                        <Label 
+                            FontAttributes="Bold"
+                            FontSize="Medium"
+                            Text="To Do"
+                            VerticalOptions="Center" 
+                            HorizontalOptions="Center" />
+                        <CollectionView ItemsSource="{Binding ToDoTasks}" ItemSizingStrategy="MeasureAllItems">
+
+                            <CollectionView.ItemsLayout>
+                                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+                            </CollectionView.ItemsLayout>
+
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <Frame WidthRequest="300" HeightRequest="150" HorizontalOptions="Start" VerticalOptions="Center" Background="{StaticResource Gray100}">
+                                        <Frame.GestureRecognizers>
+                                            <DragGestureRecognizer CanDrag="True" DragStartingCommand="{Binding Source={x:RelativeSource AncestorType={x:Type vm:TaskContentViewModel}},Path=DragStartingCommand}" DragStartingCommandParameter="{Binding}"/>
+                                        </Frame.GestureRecognizers>
+                                        <Grid ColumnDefinitions="Auto, *" RowDefinitions="Auto,*,*,*" RowSpacing="10" ColumnSpacing="10" VerticalOptions="FillAndExpand">
+                                            <Label Grid.Row="0" Grid.Column="0" Text="Name:" FontAttributes="Bold" />
+                                            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" />
+
+                                            <Label Grid.Row="1" Grid.Column="0" Text="Assigned To:" FontAttributes="Bold" />
+                                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding AssignedUser.Email}" />
+
+                                            <Label Grid.Row="2" Grid.Column="0" Text="Deadline:" FontAttributes="Bold" />
+                                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Deadline, StringFormat='{0:d}'}" />
+
+                                            <Label Grid.Row="3" Grid.Column="0" Text="Task Description:" FontAttributes="Bold" />
+                                            <Label Grid.Row="3" Grid.Column="1" Text="{Binding TaskDescription}" />
+                                        </Grid>
+                                    </Frame>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+                    </VerticalStackLayout>
+                </ScrollView>
+            </Frame>
+            <Frame CornerRadius="25" Grid.Column="1" Padding="20" Background="{StaticResource White}" Margin="0,0,0,0">
+                <ScrollView >
+                    <ScrollView.GestureRecognizers>
+                        <DropGestureRecognizer AllowDrop="True" DropCommand="{Binding HandleDropCommand}" DropCommandParameter="1" />
+                    </ScrollView.GestureRecognizers>
+                    <VerticalStackLayout>
+                        <Label 
+                Text="In Process"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+                        <CollectionView ItemsSource="{Binding InProcessTasks}" ItemSizingStrategy="MeasureAllItems">
+
+                            <CollectionView.ItemsLayout>
+                                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+                            </CollectionView.ItemsLayout>
+
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <Frame WidthRequest="300" HeightRequest="150" HorizontalOptions="Start" VerticalOptions="Center" Background="{StaticResource Gray100}">
+                                        <Frame.GestureRecognizers>
+                                            <DragGestureRecognizer CanDrag="True" DragStartingCommand="{Binding Source={x:RelativeSource AncestorType={x:Type vm:TaskContentViewModel}},Path=DragStartingCommand}" DragStartingCommandParameter="{Binding}"/>
+                                        </Frame.GestureRecognizers>
+                                        <Grid ColumnDefinitions="Auto, *" RowDefinitions="Auto,*,*,*" RowSpacing="10" ColumnSpacing="10" VerticalOptions="FillAndExpand">
+                                            <Label Grid.Row="0" Grid.Column="0" Text="Name:" FontAttributes="Bold" />
+                                            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" />
+
+                                            <Label Grid.Row="1" Grid.Column="0" Text="Assigned To:" FontAttributes="Bold" />
+                                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding AssignedUser.Email}" />
+
+                                            <Label Grid.Row="2" Grid.Column="0" Text="Deadline:" FontAttributes="Bold" />
+                                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Deadline, StringFormat='{0:d}'}" />
+
+                                            <Label Grid.Row="3" Grid.Column="0" Text="Task Description:" FontAttributes="Bold" />
+                                            <Label Grid.Row="3" Grid.Column="1" Text="{Binding TaskDescription}" />
+                                        </Grid>
+                                    </Frame>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+                    </VerticalStackLayout>
+                </ScrollView>
+            </Frame>
+            <Frame CornerRadius="25" Grid.Column="2" Padding="20" Background="{StaticResource White}" Margin="0,0,0,0">
+                <ScrollView >
+                    <ScrollView.GestureRecognizers>
+                        <DropGestureRecognizer AllowDrop="True" DropCommand="{Binding HandleDropCommand}" DropCommandParameter="2" />
+                    </ScrollView.GestureRecognizers>
+                    <VerticalStackLayout>
+                        <Label 
+                        Text="Done"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Center" />       
+                        <CollectionView ItemsSource="{Binding DoneTasks}" ItemSizingStrategy="MeasureAllItems">
+
+                            <CollectionView.ItemsLayout>
+                                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+                            </CollectionView.ItemsLayout>
+
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <Frame WidthRequest="300" HeightRequest="150" HorizontalOptions="Start" VerticalOptions="Center" Background="{StaticResource Gray100}">
+                                        <Frame.GestureRecognizers>
+                                            <DragGestureRecognizer CanDrag="True" DragStartingCommand="{Binding Source={x:RelativeSource AncestorType={x:Type vm:TaskContentViewModel}},Path=DragStartingCommand}" DragStartingCommandParameter="{Binding}"/>
+                                        </Frame.GestureRecognizers>
+                                        <Grid ColumnDefinitions="Auto, *" RowDefinitions="Auto,*,*,*" RowSpacing="10" ColumnSpacing="10" VerticalOptions="FillAndExpand">
+                                            <Label Grid.Row="0" Grid.Column="0" Text="Name:" FontAttributes="Bold" />
+                                            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" />
+
+                                            <Label Grid.Row="1" Grid.Column="0" Text="Assigned To:" FontAttributes="Bold" />
+                                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding AssignedUser.Email}" />
+
+                                            <Label Grid.Row="2" Grid.Column="0" Text="Deadline:" FontAttributes="Bold" />
+                                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Deadline, StringFormat='{0:d}'}" />
+
+                                            <Label Grid.Row="3" Grid.Column="0" Text="Task Description:" FontAttributes="Bold" />
+                                            <Label Grid.Row="3" Grid.Column="1" Text="{Binding TaskDescription}" />
+                                        </Grid>
+                                    </Frame>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+                    </VerticalStackLayout>
+                </ScrollView>
+            </Frame>
+        </Grid>
+    </Grid>
+</ContentView>

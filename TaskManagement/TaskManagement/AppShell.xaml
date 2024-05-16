@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="TaskManagement.AppShell"
+    xmlns:vm="clr-namespace:TaskManagement.ViewModels"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:TaskManagement"
+    xmlns:views="clr-namespace:TaskManagement.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="TaskManagement">
+    <Shell.BindingContext>
+        <vm:ShellViewModel />
+    </Shell.BindingContext>
+
+    <!--Loading Page-->
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate views:LoadingPage}"
+        Route="loading" />
+
+    <!--Login Page-->
+    <ShellContent 
+        Title="Login" 
+        ContentTemplate="{DataTemplate views:LogInPage}"
+        Route="login"/>
+
+    <!--Registration Page-->
+    <ShellContent 
+    Title="Login" 
+    ContentTemplate="{DataTemplate views:RegistrationPage}"
+    Route="register"/>
+
+    <!--Login Page-->
+    <ShellContent 
+    Title="Team Dashboard" 
+    ContentTemplate="{DataTemplate views:TeamBoard}"
+    Route="home"/>
+
+    <Shell.FlyoutFooter>
+        <StackLayout Padding="10">
+            <Button Text="Register" FontAttributes="Bold" TextColor="White" Margin="0,20" HeightRequest="50" CornerRadius="10" BackgroundColor="#508390" Command="{Binding SignoutCommand}"/>
+        </StackLayout>
+    </Shell.FlyoutFooter>
+
+</Shell>

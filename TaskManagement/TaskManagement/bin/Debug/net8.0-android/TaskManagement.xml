@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskManagement</name>
+    </assembly>
+    <members>
+        <member name="T:TaskManagement.ViewModels.AddNewMemberViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.AddNewMemberViewModel.AssignedUser">
+            <inheritdoc cref="F:TaskManagement.ViewModels.AddNewMemberViewModel.assignedUser"/>
+        </member>
+        <member name="F:TaskManagement.ViewModels.AddNewMemberViewModel.addMemberCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.AddNewMemberViewModel.AddMemberCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.AddNewMemberViewModel.AddMemberCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.AddNewMemberViewModel.AddMember(System.Object)"/>.</summary>
+        </member>
+        <member name="T:TaskManagement.ViewModels.CreateTaskViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTaskViewModel.Name">
+            <inheritdoc cref="F:TaskManagement.ViewModels.CreateTaskViewModel._name"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTaskViewModel.Deadline">
+            <inheritdoc cref="F:TaskManagement.ViewModels.CreateTaskViewModel._deadline"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTaskViewModel.AssignedUserID">
+            <inheritdoc cref="F:TaskManagement.ViewModels.CreateTaskViewModel._assignedUserID"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTaskViewModel.TaskDescription">
+            <inheritdoc cref="F:TaskManagement.ViewModels.CreateTaskViewModel._taskDescription"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTaskViewModel.AssignedUser">
+            <inheritdoc cref="F:TaskManagement.ViewModels.CreateTaskViewModel._assignedUser"/>
+        </member>
+        <member name="T:TaskManagement.ViewModels.CreateTeamViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:TaskManagement.ViewModels.CreateTeamViewModel.addMemberCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.CreateTeamViewModel.AddMemberCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTeamViewModel.AddMemberCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.CreateTeamViewModel.AddMember(System.Object)"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.CreateTeamViewModel.addTeamCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.CreateTeamViewModel.AddTeamCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTeamViewModel.AddTeamCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.CreateTeamViewModel.AddTeam"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.CreateTeamViewModel.deleteMemberCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.CreateTeamViewModel.DeleteMemberCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.CreateTeamViewModel.DeleteMemberCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.CreateTeamViewModel.DeleteMember(System.Object)"/>.</summary>
+        </member>
+        <member name="T:TaskManagement.ViewModels.LoginViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.LoginViewModel.Username">
+            <inheritdoc cref="F:TaskManagement.ViewModels.LoginViewModel._username"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.LoginViewModel.Password">
+            <inheritdoc cref="F:TaskManagement.ViewModels.LoginViewModel._password"/>
+        </member>
+        <member name="T:TaskManagement.ViewModels.RegistrationViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.RegistrationViewModel.Username">
+            <inheritdoc cref="F:TaskManagement.ViewModels.RegistrationViewModel.username"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.RegistrationViewModel.Email">
+            <inheritdoc cref="F:TaskManagement.ViewModels.RegistrationViewModel.email"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.RegistrationViewModel.Password">
+            <inheritdoc cref="F:TaskManagement.ViewModels.RegistrationViewModel.password"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.RegistrationViewModel.ConfirmPassword">
+            <inheritdoc cref="F:TaskManagement.ViewModels.RegistrationViewModel.confirmPassword"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.RegistrationViewModel.BilalSaeed">
+            <inheritdoc cref="F:TaskManagement.ViewModels.RegistrationViewModel.bilalSaeed"/>
+        </member>
+        <member name="T:TaskManagement.ViewModels.TaskContentViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TaskContentViewModel.handleDropCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TaskContentViewModel.HandleDropCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TaskContentViewModel.HandleDropCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TaskContentViewModel.HandleDrop(System.String)"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TaskContentViewModel.dragStartingCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TaskContentViewModel.DragStartingCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TaskContentViewModel.DragStartingCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TaskContentViewModel.DragStarting(TaskManagement.Models.TaskModel)"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TaskContentViewModel.dropCompleteCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TaskContentViewModel.DropCompleteCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TaskContentViewModel.DropCompleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TaskContentViewModel.DropComplete(TaskManagement.Models.TaskModel)"/>.</summary>
+        </member>
+        <member name="T:TaskManagement.ViewModels.TeamBoardViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.CurrentView">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.currentView"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.UsersListVisibility">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.usersListVisibility"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.TeamsListVisibility">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.teamsListVisibility"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.CountUser">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.countUser"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.TeamsLabel">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.teamsLabel"/>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.SelectedTeamId">
+            <inheritdoc cref="F:TaskManagement.ViewModels.TeamBoardViewModel.selectedTeamId"/>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.logoutCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.LogoutCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.LogoutCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.LogoutAsync"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.loadCreateTaskScreenCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.LoadCreateTaskScreenCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.LoadCreateTaskScreenCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.LoadCreateTaskScreen"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.createTeamCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.CreateTeamCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.CreateTeamCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.CreateTeam"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.loadBoardsCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.LoadBoardsCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.LoadBoardsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.LoadBoards"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.removeTeamFilterCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.RemoveTeamFilterCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.RemoveTeamFilterCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.RemoveTeamFilter"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.teamSelectCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.TeamSelectCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.TeamSelectCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.TeamSelect(System.Object)"/>.</summary>
+        </member>
+        <member name="F:TaskManagement.ViewModels.TeamBoardViewModel.handleDeleteCommand">
+            <summary>The backing field for <see cref="P:TaskManagement.ViewModels.TeamBoardViewModel.HandleDeleteCommand"/>.</summary>
+        </member>
+        <member name="P:TaskManagement.ViewModels.TeamBoardViewModel.HandleDeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:TaskManagement.ViewModels.TeamBoardViewModel.HandleDelete"/>.</summary>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_DatePicker.TextColorTo(Microsoft.Maui.Controls.DatePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Editor.TextColorTo(Microsoft.Maui.Controls.Editor,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Entry.TextColorTo(Microsoft.Maui.Controls.Entry,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_InputView.TextColorTo(Microsoft.Maui.Controls.InputView,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Label.TextColorTo(Microsoft.Maui.Controls.Label,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Picker.TextColorTo(Microsoft.Maui.Controls.Picker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_RadioButton.TextColorTo(Microsoft.Maui.Controls.RadioButton,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_SearchBar.TextColorTo(Microsoft.Maui.Controls.SearchBar,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_TimePicker.TextColorTo(Microsoft.Maui.Controls.TimePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AssignedUser">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AssignedUser" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Deadline">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Deadline" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AssignedUserID">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AssignedUserID" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TaskDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TaskDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Username">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Username" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConfirmPassword">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConfirmPassword" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BilalSaeed">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BilalSaeed" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentView">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentView" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.UsersListVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "UsersListVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TeamsListVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TeamsListVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CountUser">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CountUser" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TeamsLabel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TeamsLabel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedTeamId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedTeamId" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AssignedUser">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AssignedUser" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Deadline">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Deadline" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AssignedUserID">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AssignedUserID" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TaskDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TaskDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Username">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Username" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConfirmPassword">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConfirmPassword" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BilalSaeed">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BilalSaeed" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentView">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentView" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.UsersListVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "UsersListVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TeamsListVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TeamsListVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CountUser">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CountUser" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TeamsLabel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TeamsLabel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedTeamId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedTeamId" generated properties.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManagement.Views.CreateTeamView"
+             xmlns:bilal="clr-namespace:TaskManagement.Converters"
+             xmlns:local="clr-namespace:TaskManagement.Models;assembly=DataAccessLayer"
+             xmlns:vm="clr-namespace:TaskManagement.ViewModels">
+    <ContentView.BindingContext>
+        <vm:CreateTeamViewModel/>
+    </ContentView.BindingContext>
+    
+    <ScrollView>
+        <StackLayout>
+
+            <CollectionView ItemsSource="{Binding Teams}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <!-- Display each team -->
+                        <StackLayout>
+                            <!-- Display team name in the first row -->
+                            <Label Text="{Binding Name}" FontAttributes="Bold" />
+                            <!-- Bind the members of each team to another CollectionView -->
+                            <CollectionView ItemsSource="{Binding UserTeam}">
+                                <CollectionView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid ColumnDefinitions="Auto,*">
+                                            <Label Text="{Binding User.Email}" Grid.Column="0"/>
+
+                                            <Button Grid.Column="1"
+Text="Delete"
+BackgroundColor="Red"
+Command="{Binding Source={RelativeSource AncestorType={x:Type vm:CreateTeamViewModel}},Path=DeleteMemberCommand}"
+                                                    TextColor="White"
+HorizontalOptions="EndAndExpand" >
+                                                <Button.CommandParameter>
+                                                    <MultiBinding StringFormat="{}{0} {1}}">
+                                                        <Binding Path="BindingContext.TeamId" Source="{RelativeSource FindAncestor, AncestorType={x:Type CollectionView}}" />
+                                                        <Binding Path="UserId" />
+                                                    </MultiBinding>
+                                                </Button.CommandParameter>
+                                            </Button>
+
+                                        </Grid>
+                                    </DataTemplate>
+                                </CollectionView.ItemTemplate>
+                                
+                                <!-- Apply spacing and margin to members -->
+                                <CollectionView.ItemsLayout>
+                                    <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="5" />
+                                </CollectionView.ItemsLayout>
+                            </CollectionView>
+                            <HorizontalStackLayout HorizontalOptions="Center">
+                                <Button
+Text="Add New Member"
+BackgroundColor="{StaticResource MidnightBlue}"
+Command="{Binding Source={RelativeSource AncestorType={x:Type vm:CreateTeamViewModel}},Path=AddMemberCommand}"
+TextColor="White"
+CommandParameter="{Binding TeamId}"
+HorizontalOptions="End" />
+                            </HorizontalStackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+            <!-- Add Team Button -->
+            <Button Text="Add Team" Command="{Binding AddTeamCommand}"/>
+        </StackLayout>
+    </ScrollView>
+</ContentView>
